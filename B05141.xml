@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of his Highnes [sic] Council in Scotland, for the government thereof for the better preventing of ill-affected persons from acting any design to the disturbance of the quiet of this nation, by an unlicensed repairing into this country, and going out of the same.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05141</idno>
+            <idno type="STC">Wing S1012E</idno>
+            <idno type="STC">ESTC R183831</idno>
+            <idno type="EEBO-CITATION">53981704</idno>
+            <idno type="OCLC">ocm 53981704</idno>
+            <idno type="VID">180325</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05141)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180325)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2826:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of his Highnes [sic] Council in Scotland, for the government thereof for the better preventing of ill-affected persons from acting any design to the disturbance of the quiet of this nation, by an unlicensed repairing into this country, and going out of the same.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Christopher Higgins, in Harts-Close, over against the Trone-Church,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Text in black letter.</note>
+                  <note>Order to print dated: Friday the 23 day of November, 1655. Signed: Emanuel Downing, Cl. of the Councill.</note>
+                  <note>Imperfect: creased and stained with some loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>International travel regulations --  Scotland --  Early works to 1800.</term>
+               <term>Maritime law --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Sources.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:180325:1" rendition="simple:additions"/>
+            <head>A DECLARATION OF HIS HIGHNES COUNCIL IN SCOTLAND, For the GOVERNMENT thereof; For the better Preventing of Ill-Affected PERSONS from Acting any Deſign to the Diſturbance of the QUIET of this NATION, by an Unlicenſed Repairing into this Country, and going out of the ſame.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas many of thoſe lately in Arms againſt the Peace and Quiet of this Nation, being fled beyond the Seas becauſe of the many Victories and good Succeſſes which GOD hath given to the Forces of this Commonwealth againſt the Com<g ref="char:EOLhyphen"/>mon Enemy, which rendred it unſafe for them to remain therein; And it having been found that ſome of them are already returned, and it being beleeved that others, diſ-affected to the Peace and Welfare of this Country, are likely to return there-into, upon pretence of knowing no Order to the contrary: The Council conſidering, that the con<g ref="char:EOLhyphen"/>fluence of ſuch diſ-affected perſons hither might be of dangerous conſequence to this Nation; And to the end that no Perſon may pretend ignorance thereof, do hereby Order and Declare;</p>
+            <p n="1">
+               <hi>I.</hi> That no Perſon or Perſons whatſoever, now beyond the Seas out of this Common<g ref="char:EOLhyphen"/>wealth, who are not Commanders or Maſters of any Ships, or other Veſſels, or properly be<g ref="char:EOLhyphen"/>longing to any Ships Company, aſwell of this Commonwealth, as in Amity with it (for all which Companies, the ſaid reſpective Commanders or Maſters of Ships, or Veſſels, will be anſwerable) ſhall, after the Twentieth of <hi>January</hi> next, preſume to come from any place beyond the Seas, not in the power of this Commonwealth, into <hi>Scotland</hi> without Licence in that be<g ref="char:EOLhyphen"/>half from his Highneſs the Lord Protector or his Council, or from his Highneſs Council in <hi>Scotland,</hi> or the Commander in <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of <hi>Ireland,</hi> or the Commander in Chief of his Highneſs Forces there, or his Highneſs Council in <hi>Ireland,</hi> or the Generals of the Fleet of this Commonwealth, or any of them, or ſuch others as are or ſhall be authorized in that behalf; as they will anſwer the contrary at their perils.</p>
+            <p n="2">
+               <hi>II.</hi> All ſuch as ſhall repair into <hi>Scotland</hi> from any place beyond the Sea, not belonging to this Commonwealth, after the Publication hereof, though with a Paſs between this and the Twentieth of <hi>January</hi> next, and after; and though without a Paſs between this and the Twen<g ref="char:EOLhyphen"/>tieth of <hi>January</hi> next, ſuch Perſon and Perſons reſpectively are hereby required before they come on ſhore, to ſend Intimation, as they will anſwer the contrary at their perils, of their being ar<g ref="char:EOLhyphen"/>rived, to the Governor of one of the next adjacent Garriſons, who is to ſend forthwith for the ſaid Perſon or Perſons, to ſee his or their Paſs or Paſſes, leſt they might be counterfeited; and for ſuch as have no Paſſe between this and the Twentieth of <hi>January</hi> next, to receive Informa<g ref="char:EOLhyphen"/>tion of the cauſe of their coming into this Nation, of their buſineſs here, and of the time of their intended continuance in this Country; In all which, if the ſaid Governor receive full ſatisfa<g ref="char:EOLhyphen"/>ction, he is then to permit the ſaid Perſon or Perſons to paſs about his or their lawful affairs; But if upon ſuch examination the ſaid Governor hath cauſe to ſuſpect the ſaid Perſon or Per<g ref="char:EOLhyphen"/>ſons, He is deſired and authorized to ſecure him or them, and forthwith to intimate the Grounds of his ſaid Diſ-ſatisfaction unto the Council, who will give ſpeedy Order therein; till which Order be received by the ſaid Governor, he is deſired and authorized to keep the ſaid Perſon and Perſons in ſafe cuſtody.</p>
+            <pb facs="tcp:180325:2"/>
+            <p n="3">
+               <hi>III.</hi> That no Commander or Maſter of any Ship or Veſſel, ſhall from or after the Twen<g ref="char:EOLhyphen"/>tieth of <hi>January</hi> next, bring any Perſon, or receive aboard his Ship or Veſſel any Perſon from any place beyond the Seas, not in the power of this Commonwealth, coming for <hi>Scotland,</hi> ex<g ref="char:EOLhyphen"/>cept the Mariners belonging to the Ship or Veſſels Company (for whom the Ship Comman<g ref="char:EOLhyphen"/>der or Maſter of the Ship or Veſſel will be anſwerable) and except ſuch Perſon or Perſons as ſhall <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from any of the Perſons or Authorities before mentioned, upon the pain and penalty of the loſs and forfeiture of the Ship or Ships, Veſſel or Veſſels wherein ſuch Paſſenger or Paſſengers ſhall come, and of Impriſonment during the Councils pleaſure, and ſuch further puniſhment as their contempt of this Declaration ſhall demerit.</p>
+            <p n="4">
+               <hi>4.</hi> And the Council further conſidering the Inconveniences that might ariſe to this Com<g ref="char:EOLhyphen"/>monwealth, by the going of Perſons out of <hi>Scotland</hi> beyond the Seas, if a general liberty ſhould be taken therein, whereby diſ-affected Perſons might the better purſue their wicked Deſigns againſt this Commonwealth, Do further hereby Order and Declare, That no Commander or Maſter of any Ship or Veſſel, ſhall, after the Fourth day of <hi>December</hi> next, preſume to tranſ<g ref="char:EOLhyphen"/>port or receive aboard his Ship or Veſſel, in order to his Tranſportation, any Perſon whatſo<g ref="char:EOLhyphen"/>ever (except ſuch as belong to the Ship or Veſſels Company, for whom he will be anſwerable) going for any Forreign Parts, not in the power of this Commonwealth, without Licence in that behalf from ſome one of the Perſons or Authorities before mentioned, or from the Gover<g ref="char:EOLhyphen"/>nor of <hi>Air, Aberdeen,</hi> or <hi>Dundee</hi> for the time being, upon pain of forfeiture of his Ship, and im<g ref="char:EOLhyphen"/>priſonment of his Perſon during the Councils pleaſure. And this Declaration is to continue and be of force until the Firſt of <hi>July</hi> next after the Date hereof. And for the more effectual ha<g ref="char:EOLhyphen"/>ving of theſe Orders put in execution, All Officers whatſoever belonging to the Cuſtoms in the reſpective Ports in <hi>Scotland,</hi> are hereby ſtrictly required (from and after the Publication hereof) upon the arrival of any Ship or Veſſel from any Place beyond Sea, not belonging to this Commonwealth, to repair immediatly aboard, and to acquaint the Commander or Maſter therof with the fore-mentioned Declaration, and ſtrictly to require him, to give him a Schedule of the Names of his Ships Company, for whom he is to undertake to be anſwerable, by wri<g ref="char:EOLhyphen"/>ting under his hand at the foot of the ſaid Schedule, as alſo to give due obſervance to the ſaid Declaration. And the ſaid Officers of the Cuſtoms, or one of them, at their reſpective Ports, are to require from the Commander or Maſter of every ſuch Ship or Veſſel, a Liſt of the Paſ<g ref="char:EOLhyphen"/>ſengers coming in the ſaid Ship, under his hand; which Liſt, the ſaid Commander or Maſter of ſuch Ship or Veſſel is required to deliver him or them; And alſo to enjoyn the ſaid Comman<g ref="char:EOLhyphen"/>der or Maſter of ſuch Ship or Veſſel, not to permit any ſuch Paſſengers to come on Shore until they reſpectively be ordered by Warrant from the Governor of one of the next adjacent Garri<g ref="char:EOLhyphen"/>ſons to come to him. And the ſaid Officers of the Cuſtoms, at their reſpective Ports, are fur<g ref="char:EOLhyphen"/>ther hereby required, diligently to ſearch whether any Perſon or Perſons (other than the Com<g ref="char:EOLhyphen"/>pany ſo undertaken for, belonging to the ſaid Ship or Veſſel) be come over in ſuch Ship or Veſſel, And if any ſuch be, to acquaint him or them alſo with the before-mentioned Declaration, and enjoyn his due obedience thereunto, that no perſon may pretend ignorance thereof; And alſo carefully to obſerve whether there be any breakers of the Rules ſet down by the ſaid Declarati<g ref="char:EOLhyphen"/>on, And if any ſuch ſhould be, from time to time <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to inform his Highneſs Council there<g ref="char:EOLhyphen"/>of, and as much as in them lyes, to prevent or hinder any Breach of the ſaid Order.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Friday, the 23. day of <hi>November,</hi> 1655.</hi>
+                  </date> 
+                  <hi>At His Highneſs Council in EDINBURGH,</hi>
+               </dateline> 
+               <hi>ORdered, That the above Declaration be forthwith Printed and Publiſhed,</hi>
+               <signed>EMANUEL DOWNING, Cl. of the Councill.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>
+                  <hi>EDINB<g ref="char:V">Ʋ</g>RGH,</hi> Printed by <hi>Christopher Higgins,</hi> in <hi>Harts</hi>-Cloſe, over againſt the Trone-Church, 1655.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
